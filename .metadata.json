@@ -1,0 +1,10 @@
+[
+  {
+    "package": "lfmm",
+    "oncran": true
+  },
+  {
+    "package": "pcadapt",
+    "oncran": true
+  }
+]
