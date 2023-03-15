@@ -1,10 +1,10 @@
 [
   {
-    "package": "lfmm",
+    "package": "pcadapt",
     "oncran": true
   },
   {
-    "package": "pcadapt",
+    "package": "lfmm",
     "oncran": true
   }
 ]
