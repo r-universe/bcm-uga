@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "pcadapt"]
-	path = pcadapt
-	url = https://github.com/bcm-uga/pcadapt
-	shallow = true
-	registered = true
 [submodule "lfmm"]
 	path = lfmm
 	url = https://github.com/bcm-uga/lfmm
+	shallow = true
+	registered = true
+[submodule "pcadapt"]
+	path = pcadapt
+	url = https://github.com/bcm-uga/pcadapt
 	shallow = true
 	registered = true
